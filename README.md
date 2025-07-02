@@ -161,7 +161,7 @@ Adding comments to the code to clarify its functionality.
 
 Translating the documentation into other languages.
 
-If you'd like to contribute to the documentation, you can either submit a pull request with your changes or open an issue on GitHub Issues with the label "documentation" to discuss potential improvements.
+If you'd like to contribute to the documentation, you can either submit a pull request with your changes or open an issue on [GitHub Issues] (https://github.com/Str8Rogue16/StockBot/pulls) with the label "documentation" to discuss potential improvements.
 
 Testing:
 
