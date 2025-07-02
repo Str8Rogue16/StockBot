@@ -8,7 +8,7 @@ The `trends.py` script analyzes stock market trends using various technical indi
 
 * Send automatic alerts to a Discord channel when significant SMA crossover signals (Golden Cross, Death Cross) are detected.
 * Respond to commands in Discord for:
-    * Manually checking all monitored tickers (`!test`).
+    * Manually checking all monitored tickers (`!run`).
     * Getting detailed technical analysis for a specific ticker (`!analyze [TICKER]`).
     * Adding a ticker to the watchlist (`!add [TICKER]`).
     * Removing a ticker from the watchlist (`!remove [TICKER]`).
