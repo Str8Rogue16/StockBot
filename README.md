@@ -76,7 +76,7 @@ The `trends.py` script analyzes stock market trends using various technical indi
     The bot will log in to Discord and start monitoring the tickers in the `TICKERS` list defined in `bot.py`.
 
 2.  **Interact with the bot in your Discord channel using the following commands:**
-    * `!test`: Triggers an immediate check for SMA crossover trends for all tickers in the watchlist.
+    * `!run`: Triggers an immediate check for SMA crossover trends for all tickers in the watchlist.
     * `!analyze [TICKER]`: Provides a detailed technical analysis for the specified ticker symbol.
     * `!add [TICKER]`: Adds the given ticker symbol to the watchlist.
     * `!remove [TICKER]`: Removes the given ticker symbol from the watchlist.
