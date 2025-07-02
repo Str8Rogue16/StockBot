@@ -129,7 +129,7 @@ Any relevant error messages or traceback. Please use code blocks (```) to format
 
 Your operating system.
 
-You can submit bug reports by opening a new issue on GitHub Issues with the label "bug".
+You can submit bug reports by opening a new issue on [GitHub Issues] (https://github.com/Str8Rogue16/StockBot/issues) with the label "bug".
 
 Feature Requests:
 
@@ -145,7 +145,7 @@ Include any use cases or scenarios where this feature would be beneficial.
 
 Feel free to suggest multiple small, related features as separate requests.
 
-You can submit feature requests by opening a new issue on GitHub Issues with the label "enhancement".
+You can submit feature requests by opening a new issue on [GitHub Issues] (https://github.com/Str8Rogue16/StockBot/issues) with the label "enhancement".
 
 Documentation:
 
