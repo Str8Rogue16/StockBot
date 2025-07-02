@@ -175,7 +175,7 @@ Testing new features or bug fixes that are being developed (often mentioned in i
 
 Writing unit tests for the trends.py or bot.py code (if you are familiar with Python testing frameworks like pytest or unittest).
 
-If you find any issues during testing, please report them as a bug report as described above. If you are interested in contributing more actively to testing, feel free to reach out by opening an issue on GitHub Issues with the label "testing".
+If you find any issues during testing, please report them as a bug report as described above. If you are interested in contributing more actively to testing, feel free to reach out by opening an issue on [GitHub Issues] (https://github.com/Str8Rogue16/StockBot/issues) with the label "testing".
 
 ## License
 
