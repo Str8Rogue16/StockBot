@@ -183,4 +183,6 @@ MIT License
 
 ## Support
 
-[Optional: Add information on how users can get support or contact you.]
+Support for this project is primarily handled through the GitHub Issues. Please open an issue with your question or problem, and the community or maintainers will try to assist.
+
+You can ask questions and discuss the project on my [GitHub Discussions](https://github.com/Str8Rogue16/StockBot/discussions) page.
